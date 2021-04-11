@@ -4,12 +4,12 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github
+3. Download project from github(https://github.com/KhojProject/Khoj-Project.git)
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone 
+    ii>git clone https://github.com/KhojProject/Khoj-Project.git
     
 4. extract files in C:\\xampp\htdocs\.
 
